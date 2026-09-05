@@ -5120,6 +5120,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "Report Writer",
+    "author": "crluehmann",
+    "repo": "crluehmann/report-writer",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
   "name": "Ivory Garden",
   "author": "Ward Skaiker",
   "repo": "https://github.com/W-O-Debian/ivory-garden",
